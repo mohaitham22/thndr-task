@@ -1,3 +1,10 @@
+
+
+.customButton {
+  background-color: #ff5722 !important; /* Override Ant Design button background color */
+  border: none !important;
+}
+
 .main {
   display: flex;
   flex-direction: column;
